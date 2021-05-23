@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e10bbc5619a8652b5565aa0ad27c1409",
+    "revision": "99e54b86f1007b3944f3652af707ff9f",
     "url": "/treebank-template/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/treebank-template/static/css/2.354f031a.chunk.css"
   },
   {
-    "revision": "9bfaf29d58edd7282edd",
+    "revision": "8e93c3f11cd4b8e2e910",
     "url": "/treebank-template/static/css/main.bd98509e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/treebank-template/static/js/2.1716a128.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bfaf29d58edd7282edd",
-    "url": "/treebank-template/static/js/main.11496cc7.chunk.js"
+    "revision": "8e93c3f11cd4b8e2e910",
+    "url": "/treebank-template/static/js/main.e4a105b0.chunk.js"
   },
   {
     "revision": "fc82e1a45c5889b39b98",
